@@ -3,7 +3,7 @@
  * Clovers Framework()
  *
  * @link      https://github.com/donghaichen/Clovers
- * @copyright Copyright (c) 2011-2016 Josh Lockhart
+ * @copyright Copyright (c) 2011-2016 donghaichen
  * @license    (MIT License)
  */
 namespace Clovers\Http;
