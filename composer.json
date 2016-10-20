@@ -1,0 +1,17 @@
+{
+  "name": "clovers/http",
+  "description": "Clover http package",
+  "keywords": ["php", "http", "clover"],
+  "license": "MIT",
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "4.5.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Clovers\\Http\\": "src/"
+    }
+  }
+}
