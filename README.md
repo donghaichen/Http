@@ -1,10 +1,10 @@
-#Clovers 框架核心日志管理
+#Clovers 框架核心请求和响应
 
 ## Install
 ```shell
- composer require clovers/log
+ composer require clovers/http
  ```
  or
  ```shell
-  composer require clovers/log:版本
+  composer require clovers/http:版本
  ```
